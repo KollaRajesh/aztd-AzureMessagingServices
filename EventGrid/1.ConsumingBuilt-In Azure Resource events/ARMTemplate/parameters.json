@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "connections_azureeventgrid_name": {
+            "value": null
+        },
+        "workflows_aztdslogicapp_EventsHandler_name": {
+            "value": null
+        },
+        "storageAccounts_aztdsstorageaccount_name": {
+            "value": null
+        },
+        "systemTopics_aztdsstorageaccount_bc99686f_91ef_4448_805f_d52d7c19d529_name": {
+            "value": null
+        }
+    }
+}

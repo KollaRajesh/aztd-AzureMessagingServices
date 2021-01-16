@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "workflows_aztds_LoanEvents_name": {
+            "value": null
+        },
+        "topics_aztds_LoanEvents_name": {
+            "value": null
+        },
+        "connections_azureeventgridpublish_name": {
+            "value": null
+        },
+        "workflows_aztds_LoaneventsHandler_name": {
+            "value": null
+        }
+    }
+}

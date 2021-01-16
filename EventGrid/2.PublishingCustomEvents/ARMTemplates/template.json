@@ -1,0 +1,144 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "workflows_aztds_LoanEvents_name": {
+            "defaultValue": "aztds-LoanEvents",
+            "type": "String"
+        },
+        "topics_aztds_LoanEvents_name": {
+            "defaultValue": "aztds-LoanEvents",
+            "type": "String"
+        },
+        "connections_azureeventgridpublish_name": {
+            "defaultValue": "azureeventgridpublish",
+            "type": "String"
+        },
+        "workflows_aztds_LoaneventsHandler_name": {
+            "defaultValue": "aztds-LoaneventsHandler",
+            "type": "String"
+        }
+    },
+    "variables": {},
+    "resources": [
+        {
+            "type": "Microsoft.EventGrid/topics",
+            "apiVersion": "2020-06-01",
+            "name": "[parameters('topics_aztds_LoanEvents_name')]",
+            "location": "eastus",
+            "properties": {
+                "inputSchema": "EventGridSchema",
+                "publicNetworkAccess": "Enabled"
+            }
+        },
+        {
+            "type": "Microsoft.Logic/workflows",
+            "apiVersion": "2017-07-01",
+            "name": "[parameters('workflows_aztds_LoaneventsHandler_name')]",
+            "location": "eastus",
+            "properties": {
+                "state": "Enabled",
+                "definition": {
+                    "$schema": "https://schema.management.azure.com/providers/Microsoft.Logic/schemas/2016-06-01/workflowdefinition.json#",
+                    "contentVersion": "1.0.0.0",
+                    "parameters": {},
+                    "triggers": {
+                        "manual": {
+                            "type": "Request",
+                            "kind": "Http",
+                            "inputs": {
+                                "schema": {}
+                            }
+                        }
+                    },
+                    "actions": {},
+                    "outputs": {}
+                },
+                "parameters": {}
+            }
+        },
+        {
+            "type": "Microsoft.Web/connections",
+            "apiVersion": "2016-06-01",
+            "name": "[parameters('connections_azureeventgridpublish_name')]",
+            "location": "eastus",
+            "kind": "V1",
+            "properties": {
+                "displayName": "LoanEvents",
+                "customParameterValues": {},
+                "api": {
+                    "id": "[concat('/subscriptions/0b2a8fef-7152-4c83-ba07-17e08145127b/providers/Microsoft.Web/locations/eastus/managedApis/', parameters('connections_azureeventgridpublish_name'))]"
+                }
+            }
+        },
+        {
+            "type": "Microsoft.Logic/workflows",
+            "apiVersion": "2017-07-01",
+            "name": "[parameters('workflows_aztds_LoanEvents_name')]",
+            "location": "eastus",
+            "dependsOn": [
+                "[resourceId('Microsoft.Web/connections', parameters('connections_azureeventgridpublish_name'))]"
+            ],
+            "properties": {
+                "state": "Enabled",
+                "definition": {
+                    "$schema": "https://schema.management.azure.com/providers/Microsoft.Logic/schemas/2016-06-01/workflowdefinition.json#",
+                    "contentVersion": "1.0.0.0",
+                    "parameters": {
+                        "$connections": {
+                            "defaultValue": {},
+                            "type": "Object"
+                        }
+                    },
+                    "triggers": {
+                        "manual": {
+                            "type": "Request",
+                            "kind": "Http",
+                            "inputs": {
+                                "schema": {}
+                            }
+                        }
+                    },
+                    "actions": {
+                        "Publish_Event": {
+                            "runAfter": {},
+                            "type": "ApiConnection",
+                            "inputs": {
+                                "body": [
+                                    {
+                                        "data": {
+                                            "applicationType": "Loan",
+                                            "status": "Received"
+                                        },
+                                        "eventType": "new application",
+                                        "id": "@{guid()}",
+                                        "subject": "Loan application received "
+                                    }
+                                ],
+                                "host": {
+                                    "connection": {
+                                        "name": "@parameters('$connections')['azureeventgridpublish']['connectionId']"
+                                    }
+                                },
+                                "method": "post",
+                                "path": "/eventGrid/api/events"
+                            }
+                        }
+                    },
+                    "outputs": {}
+                },
+                "parameters": {
+                    "$connections": {
+                        "value": {
+                            "azureeventgridpublish": {
+                                "connectionId": "[resourceId('Microsoft.Web/connections', parameters('connections_azureeventgridpublish_name'))]",
+                                "connectionName": "azureeventgridpublish",
+                                "id": "/subscriptions/0b2a8fef-7152-4c83-ba07-17e08145127b/providers/Microsoft.Web/locations/eastus/managedApis/azureeventgridpublish"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
