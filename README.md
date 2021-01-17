@@ -3,13 +3,12 @@
 There are two types fo data in message services 
 
 1. Event
---------
 
- - Light weight notification of a condition or status change 
- - just has information about what happened so consumer 
- - notified something happened 
- - Publisher of event has no expectation how the event is handled 
- - Consumer of event  decides what do with event 
+   - Light weight notification of a condition or status change 
+   - just has information about what happened so consumer 
+   - notified something happened 
+   - Publisher of event has no expectation how the event is handled 
+   - Consumer of event  decides what do with event 
 
     There are  two of events  
       1. Discrete unit
@@ -17,20 +16,19 @@ There are two types fo data in message services
       
    ![EventFlow.png](https://github.com/KollaRajesh/aztd-AzureMessagingServices/blob/master/EventGrid/PicsForNotes/EventFlow.png)
 
-2. Message
-----------
 
-- Contains raw data  produced by  a  service.
-- Publisher of the message has an expectation how consumer
-- can handle message
-- Contract exists between two sides
+2. Message
+
+  - Contains raw data  produced by  a  service.
+  - Publisher of the message has an expectation how consumer
+  - can handle message
+  - Contract exists between two sides
 
 There are three types of messaging services in Azure.
 
-1. Azure EventGrid 
-2. EventHub
-3. ServiceBus
-
+  1. Azure EventGrid 
+  2. EventHub
+  3. ServiceBus
 
 
   Service	|        Event Type              |	           When to use
