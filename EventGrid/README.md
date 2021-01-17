@@ -57,3 +57,12 @@
    -  Dynamic Scalable : At least once delivery ( if didn't deliver in 24 hours then  move to dead letter events
    -  Built-in Events:  Get up and running quickly  with resource-defined built-in events
    -  Custom Events:  Use Event Grid route , filter and reliably deliver  custom events in your app
+   
+   
+
+[Workshop-1 - Consuming Built-In Azure Resource events](https://github.com/KollaRajesh/aztd-AzureMessagingServices/tree/master/EventGrid/1.ConsumingBuilt-In%20Azure%20Resource%20events)
+    
+[Workshop-2 - Publishing Custom events](https://github.com/KollaRajesh/aztd-AzureMessagingServices/tree/master/EventGrid/2.PublishingCustomEvents)
+  
+[Workshop-3 - Subscribe Custom events](https://github.com/KollaRajesh/aztd-AzureMessagingServices/tree/master/EventGrid/3.SubscribeCustomEvents)
+
