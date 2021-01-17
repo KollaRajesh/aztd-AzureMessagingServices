@@ -1,15 +1,3 @@
----
-ServiceName: 'EventGrid'
-    Workshop: [Consuming Built-In Azure Resource events] (https://github.com/KollaRajesh/aztd-AzureMessagingServices/tree/master/EventGrid/1.ConsumingBuilt-In%20Azure%20Resource%20events)
-    Workshop: [Publishing Custom events](https://github.com/KollaRajesh/aztd-AzureMessagingServices/tree/master/EventGrid/2.PublishingCustomEvents)
-    Workshop: [Subscribe Custom events](https://github.com/KollaRajesh/aztd-AzureMessagingServices/tree/master/EventGrid/3.SubscribeCustomEvents)
-
-ServiceName: 'EventHub'
-    Workshop: 
-
-ServiceName: 'ServiceBus'
-    Workshop: 
----
 # Azure Message services 
 
 There are two types fo data in message services 
@@ -48,8 +36,22 @@ There are three types of messaging services in Azure.
   Service	|        Event Type              |	           When to use
 ------------|--------------------------------|-------------------------------------------
 Event Grid  | Event distribution (discrete)  |   React to status changes
-------------|--------------------------------|--------------------------------------------
 Event Hubs  | Event streaming (series)	     | Telemetry and distributed data streaming
-------------|--------------------------------|--------------------------------------------
 Service Bus | Message	                     | Order processing and financial transactions
-------------|--------------------------------|---------------------------------------------
+
+
+
+- EventGrid:
+
+    [Workshop - Consuming Built-In Azure Resource events](https://github.com/KollaRajesh/aztd-AzureMessagingServices/tree/master/EventGrid/1.ConsumingBuilt-In%20Azure%20Resource%20events)
+    
+    [Workshop - Publishing Custom events](https://github.com/KollaRajesh/aztd-AzureMessagingServices/tree/master/EventGrid/2.PublishingCustomEvents)
+  
+    [Workshop - Subscribe Custom events](https://github.com/KollaRajesh/aztd-AzureMessagingServices/tree/master/EventGrid/3.SubscribeCustomEvents)
+
+- EventHub
+ 
+    [Workshop - TBD](#)
+
+- ServiceBus
+    [Workshop - TBD](#)
