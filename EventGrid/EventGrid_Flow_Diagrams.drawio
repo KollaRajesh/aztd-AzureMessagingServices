@@ -1,316 +1,13 @@
-<mxfile modified="2021-01-17T16:07:57.883Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="hzJ-2PQ35oHW4d0pN92G" version="14.2.4" type="github" pages="3">
-  <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="2383" dy="1246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-14" value="Amazon SageMaker" style="whiteSpace=wrap;html=1;fillColor=none;fontSize=14;fontColor=#000000;dashed=0;fontStyle=0;align=center;verticalAlign=top;strokeColor=#D86613;gradientColor=none;spacingLeft=0;labelPosition=center;verticalLabelPosition=bottom;" parent="1" vertex="1">
-          <mxGeometry x="872.5" y="174.5" width="232" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-34" value="" style="whiteSpace=wrap;html=1;fillColor=none;fontSize=14;fontColor=#000000;dashed=0;fontStyle=0;align=center;verticalAlign=top;strokeColor=#CCCCCC;gradientColor=none;spacingLeft=0;labelPosition=center;verticalLabelPosition=bottom;" parent="1" vertex="1">
-          <mxGeometry x="882.5" y="257.5" width="210" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-1" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.door_lock;" parent="1" vertex="1">
-          <mxGeometry x="64.5" y="260.5" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-2" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.car;" parent="1" vertex="1">
-          <mxGeometry x="64.5" y="356" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-3" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.camera;" parent="1" vertex="1">
-          <mxGeometry x="64.5" y="451.5" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-4" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.utility;" parent="1" vertex="1">
-          <mxGeometry x="165.5" y="306.5" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-5" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.coffee_pot;" parent="1" vertex="1">
-          <mxGeometry x="166.5" y="410.5" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-6" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.lightbulb;" parent="1" vertex="1">
-          <mxGeometry x="263.5" y="260.5" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-7" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.house;" parent="1" vertex="1">
-          <mxGeometry x="261.5" y="356" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-8" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.thermostat;" parent="1" vertex="1">
-          <mxGeometry x="261.5" y="451.5" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-9" value="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="223.5" y="211.5" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-10" value="ML Model Executable" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#116D5B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" parent="1" vertex="1">
-          <mxGeometry x="473.5" y="244.5" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-11" value="AWS Lambda Function" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.lambda_function;" parent="1" vertex="1">
-          <mxGeometry x="473.5" y="349.5" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-12" value="AWS IoT Greengrass Core" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.greengrass;" parent="1" vertex="1">
-          <mxGeometry x="473.5" y="457.5" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-16" value="AWS IoT Core" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.internet_of_things;" parent="1" vertex="1">
-          <mxGeometry x="745.5" y="451.5" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-17" value="AWS IoT Analytics" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.iot_analytics;" parent="1" vertex="1">
-          <mxGeometry x="949.5" y="451.5" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-18" value="ML Model Executable" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#116D5B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" parent="1" vertex="1">
-          <mxGeometry x="136.5" y="691.5" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-19" value="AWS IoT Greengrass Core" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.iot_core;" parent="1" vertex="1">
-          <mxGeometry x="137.5" y="796" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-20" value="Video Camera" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.camera;" parent="1" vertex="1">
-          <mxGeometry x="137.5" y="903.5" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-21" value="AWS IoT Core" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.internet_of_things;" parent="1" vertex="1">
-          <mxGeometry x="352.5" y="711.5" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-22" value="AWS IoT Analytics" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.iot_analytics;" parent="1" vertex="1">
-          <mxGeometry x="532.5" y="708.5" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-23" value="AWS IoT Events" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.iot_events;" parent="1" vertex="1">
-          <mxGeometry x="721.5" y="708.5" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-24" value="Amazon SNS" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.sns;" parent="1" vertex="1">
-          <mxGeometry x="902.5" y="708.5" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-25" value="Amazon Kinesis&lt;br&gt;Video Streams&lt;br&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.kinesis_video_streams;" parent="1" vertex="1">
-          <mxGeometry x="484.5" y="874.5" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-26" value="Mobile Application" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F54749;gradientDirection=north;fillColor=#C7131F;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mobile;" parent="1" vertex="1">
-          <mxGeometry x="785.5" y="873.5" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-27" value="2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="483.5" y="164.5" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-28" value="3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="823.5" y="175.5" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-29" value="4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="633.5" y="399.5" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-30" value="5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="878.5" y="399.5" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-31" value="6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="136.5" y="608.5" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-32" value="7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="462.5" y="666.5" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-33" value="8" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="832.5" y="666.5" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-34" value="9" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="352.5" y="854.5" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-35" value="10" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="652.5" y="854.5" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-47" value="Title text" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="56.5" y="64.5" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-48" value="Subtitle text&lt;br style=&quot;font-size: 16px&quot;&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="56.5" y="114.5" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-49" value="Label" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="84.5" y="164.5" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-1" value="" style="line;strokeWidth=2;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="52.5" y="139.5" width="1060" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-2" value="&lt;span&gt;Label&lt;/span&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="442.5" y="216.5" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;fontSize=14;" parent="1" edge="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="354.5" y="394.5" as="sourcePoint" />
-            <mxPoint x="404.5" y="394.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="415.5" y="248.5" width="20" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-17" value="&lt;span&gt;Label&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;fontSize=14;strokeWidth=2;" parent="1" edge="1">
-          <mxGeometry x="-0.037" y="20" width="100" relative="1" as="geometry">
-            <mxPoint x="584.5" y="254.5" as="sourcePoint" />
-            <mxPoint x="854.5" y="254.5" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-18" value="&lt;span&gt;Label&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=none;elbow=vertical;startArrow=open;endFill=0;strokeColor=#545B64;rounded=0;fontSize=14;strokeWidth=2;startFill=0;" parent="1" edge="1">
-          <mxGeometry x="-0.037" y="20" width="100" relative="1" as="geometry">
-            <mxPoint x="582.5" y="318" as="sourcePoint" />
-            <mxPoint x="852.5" y="318" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-19" value="&lt;span&gt;Label&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;fontSize=14;strokeWidth=2;" parent="1" edge="1">
-          <mxGeometry x="-0.037" y="20" width="100" relative="1" as="geometry">
-            <mxPoint x="594.5000000000002" y="484.5" as="sourcePoint" />
-            <mxPoint x="714.5" y="484.5" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-20" value="&lt;span&gt;Label&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;fontSize=14;strokeWidth=2;" parent="1" edge="1">
-          <mxGeometry x="-0.037" y="20" width="100" relative="1" as="geometry">
-            <mxPoint x="838.5000000000002" y="487.5" as="sourcePoint" />
-            <mxPoint x="924.5" y="487.5" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-21" value="Label" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="66.5" y="576.5" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-22" value="&lt;span&gt;Label&lt;/span&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="136.5" y="656.5" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="76.5" y="691.5" width="20" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-24" value="Video Events" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;fontSize=14;strokeWidth=2;" parent="1" edge="1">
-          <mxGeometry x="-0.037" y="20" width="100" relative="1" as="geometry">
-            <mxPoint x="261.5" y="753.5" as="sourcePoint" />
-            <mxPoint x="342.5" y="753.5" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-25" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;fontSize=14;strokeWidth=2;" parent="1" edge="1">
-          <mxGeometry x="-0.037" y="20" width="100" relative="1" as="geometry">
-            <mxPoint x="443" y="750" as="sourcePoint" />
-            <mxPoint x="524" y="750" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-26" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;fontSize=14;strokeWidth=2;" parent="1" edge="1">
-          <mxGeometry x="-0.037" y="20" width="100" relative="1" as="geometry">
-            <mxPoint x="622.5" y="750" as="sourcePoint" />
-            <mxPoint x="703.5" y="750" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-27" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;fontSize=14;strokeWidth=2;" parent="1" edge="1">
-          <mxGeometry x="-0.037" y="20" width="100" relative="1" as="geometry">
-            <mxPoint x="811.5" y="747.5" as="sourcePoint" />
-            <mxPoint x="892.5" y="747.5" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-28" value="Video Stream" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;fontSize=14;strokeWidth=2;" parent="1" edge="1">
-          <mxGeometry x="0.0038" y="-11" width="100" relative="1" as="geometry">
-            <mxPoint x="262" y="913" as="sourcePoint" />
-            <mxPoint x="472.5" y="913.5" as="targetPoint" />
-            <mxPoint as="offset" />
-            <Array as="points">
-              <mxPoint x="367.5" y="913.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-29" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;fontSize=14;strokeWidth=2;" parent="1" edge="1">
-          <mxGeometry x="0.0038" y="-11" width="100" relative="1" as="geometry">
-            <mxPoint x="575.0714285714287" y="913.2142857142858" as="sourcePoint" />
-            <mxPoint x="762.5" y="913.5" as="targetPoint" />
-            <mxPoint as="offset" />
-            <Array as="points">
-              <mxPoint x="680.5" y="913.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-30" value="Build" style="outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_devices;pointerEvents=1" parent="1" vertex="1">
-          <mxGeometry x="962.5" y="179.5" width="52" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-31" value="Train" style="outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_devices;pointerEvents=1" parent="1" vertex="1">
-          <mxGeometry x="892.5" y="267.5" width="52" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-32" value="Optimize" style="outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_devices;pointerEvents=1" parent="1" vertex="1">
-          <mxGeometry x="1032.5" y="267.5" width="52" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-33" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;fontSize=14;" parent="1" edge="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="958.5" y="293.5" as="sourcePoint" />
-            <mxPoint x="1018.5" y="293.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-35" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;fontSize=14;" parent="1" edge="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="992.5" y="236.46774193548387" as="sourcePoint" />
-            <mxPoint x="992.5" y="256.4677419354839" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1151" y="51" width="539" height="1220" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-4" value="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1169" y="63" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-5" value="2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1167.5" y="185" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-6" value="3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1167.5" y="305" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-7" value="4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1167.5" y="419" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-8" value="5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1169" y="536" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-9" value="6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1170" y="651" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-10" value="7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1169.5" y="767" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-11" value="8" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1170" y="885" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-12" value="9" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1168" y="1005" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-13" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1220.5" y="62.5" width="449" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-14" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1219.5" y="185.5" width="450" height="115" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-15" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1219.5" y="303.5" width="450" height="117" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-16" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1219.5" y="419.5" width="450" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-17" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1220.5" y="536.5" width="449" height="114" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-18" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1220.5" y="652.5" width="450" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-19" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1220.5" y="767.5" width="449" height="113" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-20" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1220.5" y="886.5" width="449" height="124" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-21" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1220.5" y="1005.5" width="449" height="115" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-22" value="10" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1169" y="1130.5" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-23" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1221.5" y="1131" width="449" height="115" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile modified="2021-01-17T22:08:31.199Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="hE3Pf-UfpeQG5HX2fLWc" version="14.2.4" type="github" pages="2">
   <diagram id="1Dp7cWiO_kgsj2p2fkdD" name="Event VS Message">
-    <mxGraphModel dx="2383" dy="1246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1579" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="8_aCl2Ah4IlKVrVIe5cA-0" />
         <mxCell id="8_aCl2Ah4IlKVrVIe5cA-1" parent="8_aCl2Ah4IlKVrVIe5cA-0" />
-        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-88" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#000000;strokeWidth=1;fontSize=18;fontColor=none;" vertex="1" parent="8_aCl2Ah4IlKVrVIe5cA-1">
+        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-88" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#000000;strokeWidth=1;fontSize=18;fontColor=none;" parent="8_aCl2Ah4IlKVrVIe5cA-1" vertex="1">
           <mxGeometry x="20" y="515" width="1190" height="305" as="geometry" />
         </mxCell>
-        <mxCell id="5meJvscmAncwDBBFE2c_-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8_aCl2Ah4IlKVrVIe5cA-1">
+        <mxCell id="5meJvscmAncwDBBFE2c_-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="8_aCl2Ah4IlKVrVIe5cA-1" vertex="1">
           <mxGeometry x="40" y="45" width="1430" height="405" as="geometry" />
         </mxCell>
         <mxCell id="gwfTRA8bnEvTprLd9s0G-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="8_aCl2Ah4IlKVrVIe5cA-1" vertex="1">
@@ -331,22 +28,22 @@
         <mxCell id="gwfTRA8bnEvTprLd9s0G-5" value="Message" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=31;" parent="8_aCl2Ah4IlKVrVIe5cA-1" vertex="1">
           <mxGeometry x="1030" y="85" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-73" value="&lt;font style=&quot;font-size: 25px&quot;&gt;Event Source&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;fillStyle=solid;strokeColor=#666666;" vertex="1" parent="8_aCl2Ah4IlKVrVIe5cA-1">
+        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-73" value="&lt;font style=&quot;font-size: 25px&quot;&gt;Event Source&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;fillStyle=solid;strokeColor=#666666;" parent="8_aCl2Ah4IlKVrVIe5cA-1" vertex="1">
           <mxGeometry x="50" y="575" width="280" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-74" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fillColor=#ffffff;fontColor=none;fillStyle=solid;" vertex="1" parent="8_aCl2Ah4IlKVrVIe5cA-1">
+        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-74" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fillColor=#ffffff;fontColor=none;fillStyle=solid;" parent="8_aCl2Ah4IlKVrVIe5cA-1" vertex="1">
           <mxGeometry x="425" y="550" width="390" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-75" value="Event Handler&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fillColor=#d5e8d4;fillStyle=solid;strokeColor=#82b366;" vertex="1" parent="8_aCl2Ah4IlKVrVIe5cA-1">
+        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-75" value="Event Handler&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fillColor=#d5e8d4;fillStyle=solid;strokeColor=#82b366;" parent="8_aCl2Ah4IlKVrVIe5cA-1" vertex="1">
           <mxGeometry x="890" y="555" width="220" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-76" value="Event" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#6c8ebf;strokeWidth=1;fontSize=18;fillColor=#dae8fc;" vertex="1" parent="8_aCl2Ah4IlKVrVIe5cA-1">
+        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-76" value="Event" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#6c8ebf;strokeWidth=1;fontSize=18;fillColor=#dae8fc;" parent="8_aCl2Ah4IlKVrVIe5cA-1" vertex="1">
           <mxGeometry x="120" y="635" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="8_aCl2Ah4IlKVrVIe5cA-1" source="SUdxb0-Fl8D3_AVf-4mQ-77" target="SUdxb0-Fl8D3_AVf-4mQ-79">
+        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="8_aCl2Ah4IlKVrVIe5cA-1" source="SUdxb0-Fl8D3_AVf-4mQ-77" target="SUdxb0-Fl8D3_AVf-4mQ-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=none;" edge="1" parent="8_aCl2Ah4IlKVrVIe5cA-1" source="SUdxb0-Fl8D3_AVf-4mQ-77" target="SUdxb0-Fl8D3_AVf-4mQ-78">
+        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=none;" parent="8_aCl2Ah4IlKVrVIe5cA-1" source="SUdxb0-Fl8D3_AVf-4mQ-77" target="SUdxb0-Fl8D3_AVf-4mQ-78" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="640" y="650" />
@@ -354,16 +51,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-77" value="Topic" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="8_aCl2Ah4IlKVrVIe5cA-1">
+        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-77" value="Topic" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;" parent="8_aCl2Ah4IlKVrVIe5cA-1" vertex="1">
           <mxGeometry x="450" y="635" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=none;" edge="1" parent="8_aCl2Ah4IlKVrVIe5cA-1" source="SUdxb0-Fl8D3_AVf-4mQ-78" target="SUdxb0-Fl8D3_AVf-4mQ-75">
+        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=none;" parent="8_aCl2Ah4IlKVrVIe5cA-1" source="SUdxb0-Fl8D3_AVf-4mQ-78" target="SUdxb0-Fl8D3_AVf-4mQ-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-78" value="Subscriber" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;" vertex="1" parent="8_aCl2Ah4IlKVrVIe5cA-1">
+        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-78" value="Subscriber" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;" parent="8_aCl2Ah4IlKVrVIe5cA-1" vertex="1">
           <mxGeometry x="670" y="575" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=18;fontColor=none;" edge="1" parent="8_aCl2Ah4IlKVrVIe5cA-1" source="SUdxb0-Fl8D3_AVf-4mQ-79" target="SUdxb0-Fl8D3_AVf-4mQ-85">
+        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=18;fontColor=none;" parent="8_aCl2Ah4IlKVrVIe5cA-1" source="SUdxb0-Fl8D3_AVf-4mQ-79" target="SUdxb0-Fl8D3_AVf-4mQ-85" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="845" y="700" />
@@ -371,20 +68,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-79" value="Subscriber" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#b85450;strokeWidth=1;fillColor=#f8cecc;" vertex="1" parent="8_aCl2Ah4IlKVrVIe5cA-1">
+        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-79" value="Subscriber" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#b85450;strokeWidth=1;fillColor=#f8cecc;" parent="8_aCl2Ah4IlKVrVIe5cA-1" vertex="1">
           <mxGeometry x="670" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="8_aCl2Ah4IlKVrVIe5cA-1" source="SUdxb0-Fl8D3_AVf-4mQ-76" target="SUdxb0-Fl8D3_AVf-4mQ-77">
+        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="8_aCl2Ah4IlKVrVIe5cA-1" source="SUdxb0-Fl8D3_AVf-4mQ-76" target="SUdxb0-Fl8D3_AVf-4mQ-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-85" value="Event Handler&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fillColor=#d5e8d4;fillStyle=solid;strokeColor=#82b366;" vertex="1" parent="8_aCl2Ah4IlKVrVIe5cA-1">
+        <mxCell id="SUdxb0-Fl8D3_AVf-4mQ-85" value="Event Handler&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fillColor=#d5e8d4;fillStyle=solid;strokeColor=#82b366;" parent="8_aCl2Ah4IlKVrVIe5cA-1" vertex="1">
           <mxGeometry x="900" y="680" width="220" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="ItzpjVzJFrH0xCP8TXcL" name="EventGrid">
-    <mxGraphModel dx="2383" dy="2346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2290" dy="2319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="gwU3oHrJpf1aLOah3w9X-0" />
         <mxCell id="gwU3oHrJpf1aLOah3w9X-1" parent="gwU3oHrJpf1aLOah3w9X-0" />
@@ -394,28 +91,28 @@
         <mxCell id="5C0eEOjb1WUSlkYK8jdk-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=31;" parent="gwU3oHrJpf1aLOah3w9X-1" vertex="1">
           <mxGeometry x="95" y="-1030" width="1890" height="2020" as="geometry" />
         </mxCell>
-        <mxCell id="5C0eEOjb1WUSlkYK8jdk-1" value="&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 30px&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;Fully -managed event&amp;nbsp;routing service &lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;Azure Event Grid&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 30px&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;allows for uniform event consumption using publish -subscribe model allowing&lt;br&gt;react to relevant events across both azure&amp;nbsp;&lt;br&gt;and non -azure in near -real fashion&lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;u style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;Key Concepts&lt;/u&gt;&lt;br&gt;&lt;/font&gt;&lt;ul type=&quot;disc&quot; style=&quot;margin-left: 0.375in ; direction: ltr ; unicode-bidi: embed ; margin-top: 0in ; margin-bottom: 0in&quot;&gt;&lt;li style=&quot;font-size: 30px&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&amp;nbsp;Event :&amp;nbsp; What&amp;nbsp;happened&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 30px ; margin-top: 0px ; margin-bottom: 0px ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;Event&amp;nbsp;Source&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt; :&amp;nbsp; where the event took place &lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 0px ; margin-bottom: 0px ; vertical-align: middle&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 30px ; font-family: &amp;#34;calibri&amp;#34;&quot;&gt;Topic&lt;/span&gt;&lt;span style=&quot;font-size: 30px ; font-family: &amp;#34;calibri&amp;#34;&quot;&gt; :&amp;nbsp; The endpoint where publishers send&amp;nbsp;events&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 30px ; margin-top: 0px ; margin-bottom: 0px ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;Event Subscription: &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;&amp;nbsp;the endpoint&amp;nbsp; or built -in&amp;nbsp; mechanism to route events , sometimes to&lt;br&gt;     more than one handler&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 30px ; margin-top: 0px ; margin-bottom: 0px ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;Event&amp;nbsp;handler:&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;&amp;nbsp;The app&amp;nbsp;&amp;nbsp;or service reacting to the event &lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;font face=&quot;calibri&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 32px&quot;&gt;&lt;span&gt;&lt;u&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;Examples for Event Handler&lt;/font&gt;&lt;/u&gt;&lt;/span&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/blockquote&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 32px&quot;&gt;&lt;/p&gt;&lt;ol type=&quot;1&quot; style=&quot;margin-left: 0.375in ; direction: ltr ; unicode-bidi: embed ; margin-top: 0in ; margin-bottom: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 32px&quot;&gt;&lt;ol&gt;&lt;li value=&quot;1&quot; style=&quot;margin-top: 0 ; margin-bottom: 0 ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;Serverless code&amp;nbsp; (Azure functions)&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 0 ; margin-bottom: 0 ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;&amp;nbsp;Serverless workflow and integration (Logic apps)&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 0 ; margin-bottom: 0 ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;Buffering and CompetingConsumers&amp;nbsp; (Event Hubs and Storage&amp;nbsp;queues)&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 0 ; margin-bottom: 0 ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;Other services&amp;nbsp; and Applications ( Web Hooks ,&amp;nbsp; Azure Automations)&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/ol&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 32px&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 32px&quot;&gt;&lt;/p&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 32px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;&lt;u&gt;Scenarios:-&lt;/u&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 32px&quot;&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1.&amp;nbsp;&amp;nbsp;Serverless Application Architecture&amp;nbsp;&amp;nbsp;:- React&amp;nbsp; instantly to events&amp;nbsp; on Blob storage and process data&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 32px&quot;&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;&amp;nbsp; &amp;nbsp; 2.&amp;nbsp;Operations automation :&amp;nbsp;&amp;nbsp;Notify&amp;nbsp; azure automation when&amp;nbsp;Azure resource change &lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 32px&quot;&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;&amp;nbsp; &amp;nbsp; 3.&amp;nbsp;Application integration :&amp;nbsp; Connect&amp;nbsp;your app with other services with Event Grid Topics &lt;/font&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;&lt;u&gt;Key Benefits&lt;/u&gt;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/blockquote&gt;&lt;ol type=&quot;1&quot; style=&quot;margin-left: 0.375in ; direction: ltr ; unicode-bidi: embed ; margin-top: 0in ; margin-bottom: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 30px&quot;&gt; &lt;ol&gt;&lt;li value=&quot;1&quot; style=&quot;margin-top: 0 ; margin-bottom: 0 ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;Simplicity&amp;nbsp;: &amp;nbsp;point&amp;nbsp;&amp;nbsp;and click&amp;nbsp; to aim events from&amp;nbsp;your azure resources to any event handler or endpoint &lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 0 ; margin-bottom: 0 ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;Advanced&amp;nbsp;filtering : &amp;nbsp;Filter on event type or event publish&amp;nbsp;&amp;nbsp;path&amp;nbsp;&amp;nbsp; to make sure event handlers only receive relevant events&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 0 ; margin-bottom: 0 ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;Fan-out :-&amp;nbsp; Subscribe several endpoints to the same&amp;nbsp;event to send copies of&amp;nbsp; the event&amp;nbsp;to send copies&amp;nbsp; of the event&amp;nbsp; to as many places as needed &lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 0 ; margin-bottom: 0 ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;Reliability:&amp;nbsp;&amp;nbsp; 24-hour retry with exponential backoff to make sure&amp;nbsp; events are delivered &lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 0 ; margin-bottom: 0 ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;Cost:-&amp;nbsp;&amp;nbsp; only $0.60 per 1,000,000 operations &lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 30px&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 30px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 30px&quot;&gt;&lt;span&gt;&lt;u&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;Capabilities &lt;/font&gt;&lt;/u&gt;&lt;/span&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/blockquote&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 30px&quot;&gt;&lt;/p&gt;&lt;ol type=&quot;1&quot; style=&quot;margin-left: 0.375in ; direction: ltr ; unicode-bidi: embed ; margin-top: 0in ; margin-bottom: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 30px&quot;&gt;&lt;ol&gt;&lt;li value=&quot;1&quot; style=&quot;margin-top: 0px ; margin-bottom: 0px ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;Pay-per&amp;nbsp;event :&amp;nbsp;&amp;nbsp; pay only for the amount you use Event&amp;nbsp; grid &lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 0px ; margin-bottom: 0px ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;High&amp;nbsp;throughput :&amp;nbsp;&amp;nbsp; Build&amp;nbsp; high-volume workloads on event grid&amp;nbsp;with&amp;nbsp; support for millions of events&amp;nbsp;per second.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 0px ; margin-bottom: 0px ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;Dynamic Scalable&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 0px ; margin-bottom: 0px ; vertical-align: middle&quot;&gt;at least once delivery ( if didn&#39;t deliver in 24 hours then&amp;nbsp; move to dead letter events&lt;/li&gt;&lt;li style=&quot;margin-top: 0px ; margin-bottom: 0px ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;Built-in&amp;nbsp;Events:&amp;nbsp; Get up and running quickly&amp;nbsp; with resource-defined built-in events &lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 0px ; margin-bottom: 0px ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;Custom&amp;nbsp;Events:&amp;nbsp; Use Event Grid route , filter and&amp;nbsp;reliably deliver&amp;nbsp; custom events in&amp;nbsp;your app&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=31;" parent="gwU3oHrJpf1aLOah3w9X-1" vertex="1">
-          <mxGeometry x="105" y="-960" width="1880" height="1910" as="geometry" />
+        <mxCell id="5C0eEOjb1WUSlkYK8jdk-1" value="&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 30px&quot;&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;Azure Event Grid&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 30px&quot;&gt;Fully -managed event&amp;nbsp;routing service which&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 30px ; font-family: &amp;#34;calibri&amp;#34;&quot;&gt;allows for uniform event consumption using publish -subscribe model allowing&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 30px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 30px&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;react to relevant events across both azure&amp;nbsp;&amp;nbsp;and non -azure in near -real fashion&lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;u style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;Key Concepts&lt;/u&gt;&lt;br&gt;&lt;/font&gt;&lt;ul type=&quot;disc&quot; style=&quot;margin-left: 0.375in ; direction: ltr ; unicode-bidi: embed ; margin-top: 0in ; margin-bottom: 0in&quot;&gt;&lt;li style=&quot;font-size: 30px&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&amp;nbsp;Event :&amp;nbsp; What&amp;nbsp;happened&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 30px ; margin-top: 0px ; margin-bottom: 0px ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;Event&amp;nbsp;Source&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt; :&amp;nbsp; where the event took place &lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 0px ; margin-bottom: 0px ; vertical-align: middle&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 30px ; font-family: &amp;#34;calibri&amp;#34;&quot;&gt;Topic&lt;/span&gt;&lt;span style=&quot;font-size: 30px ; font-family: &amp;#34;calibri&amp;#34;&quot;&gt; :&amp;nbsp; The endpoint where publishers send&amp;nbsp;events&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 30px ; margin-top: 0px ; margin-bottom: 0px ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;Event Subscription: &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;&amp;nbsp;the endpoint&amp;nbsp; or built -in&amp;nbsp; mechanism to route events , sometimes to&lt;br&gt;     more than one handler&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 30px ; margin-top: 0px ; margin-bottom: 0px ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;Event&amp;nbsp;handler:&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;&amp;nbsp;The app&amp;nbsp;&amp;nbsp;or service reacting to the event &lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;font face=&quot;calibri&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;calibri&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 32px&quot;&gt;&lt;span&gt;&lt;u&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;Examples for Event Handler&lt;/font&gt;&lt;/u&gt;&lt;/span&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/blockquote&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 32px&quot;&gt;&lt;/p&gt;&lt;ol type=&quot;1&quot; style=&quot;margin-left: 0.375in ; direction: ltr ; unicode-bidi: embed ; margin-top: 0in ; margin-bottom: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 32px&quot;&gt;&lt;ol&gt;&lt;li value=&quot;1&quot; style=&quot;margin-top: 0 ; margin-bottom: 0 ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;Serverless code&amp;nbsp; (Azure functions)&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 0 ; margin-bottom: 0 ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;&amp;nbsp;Serverless workflow and integration (Logic apps)&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 0 ; margin-bottom: 0 ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;Buffering and CompetingConsumers&amp;nbsp; (Event Hubs and Storage&amp;nbsp;queues)&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 0 ; margin-bottom: 0 ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;Other services&amp;nbsp; and Applications ( Web Hooks ,&amp;nbsp; Azure Automations)&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/ol&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 32px&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 32px&quot;&gt;&lt;/p&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 32px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;&lt;u&gt;Scenarios:-&lt;/u&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 32px&quot;&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1.&amp;nbsp;&amp;nbsp;Serverless Application Architecture&amp;nbsp;&amp;nbsp;:- React&amp;nbsp; instantly to events&amp;nbsp; on Blob storage and process data&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 32px&quot;&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;&amp;nbsp; &amp;nbsp; 2.&amp;nbsp;Operations automation :&amp;nbsp;&amp;nbsp;Notify&amp;nbsp; azure automation when&amp;nbsp;Azure resource change &lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 32px&quot;&gt;&lt;font style=&quot;font-size: 32px&quot;&gt;&amp;nbsp; &amp;nbsp; 3.&amp;nbsp;Application integration :&amp;nbsp; Connect&amp;nbsp;your app with other services with Event Grid Topics &lt;/font&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;&lt;u&gt;Key Benefits&lt;/u&gt;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/blockquote&gt;&lt;ol type=&quot;1&quot; style=&quot;margin-left: 0.375in ; direction: ltr ; unicode-bidi: embed ; margin-top: 0in ; margin-bottom: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 30px&quot;&gt; &lt;ol&gt;&lt;li value=&quot;1&quot; style=&quot;margin-top: 0 ; margin-bottom: 0 ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;Simplicity&amp;nbsp;: &amp;nbsp;point&amp;nbsp;&amp;nbsp;and click&amp;nbsp; to aim events from&amp;nbsp;your azure resources to any event handler or endpoint &lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 0 ; margin-bottom: 0 ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;Advanced&amp;nbsp;filtering : &amp;nbsp;Filter on event type or event publish&amp;nbsp;&amp;nbsp;path&amp;nbsp;&amp;nbsp; to make sure event handlers only receive relevant events&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 0 ; margin-bottom: 0 ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;Fan-out :-&amp;nbsp; Subscribe several endpoints to the same&amp;nbsp;event to send copies of&amp;nbsp; the event&amp;nbsp;to send copies&amp;nbsp; of the event&amp;nbsp; to as many places as needed &lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 0 ; margin-bottom: 0 ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;Reliability:&amp;nbsp;&amp;nbsp; 24-hour retry with exponential backoff to make sure&amp;nbsp; events are delivered &lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 0 ; margin-bottom: 0 ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;Cost:-&amp;nbsp;&amp;nbsp; only $0.60 per 1,000,000 operations &lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 30px&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 30px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 30px&quot;&gt;&lt;span&gt;&lt;u&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;Capabilities &lt;/font&gt;&lt;/u&gt;&lt;/span&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/blockquote&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 30px&quot;&gt;&lt;/p&gt;&lt;ol type=&quot;1&quot; style=&quot;margin-left: 0.375in ; direction: ltr ; unicode-bidi: embed ; margin-top: 0in ; margin-bottom: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 30px&quot;&gt;&lt;ol&gt;&lt;li value=&quot;1&quot; style=&quot;margin-top: 0px ; margin-bottom: 0px ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;Pay-per&amp;nbsp;event :&amp;nbsp;&amp;nbsp; pay only for the amount you use Event&amp;nbsp; grid &lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 0px ; margin-bottom: 0px ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;High&amp;nbsp;throughput :&amp;nbsp;&amp;nbsp; Build&amp;nbsp; high-volume workloads on event grid&amp;nbsp;with&amp;nbsp; support for millions of events&amp;nbsp;per second.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 0px ; margin-bottom: 0px ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;Dynamic Scalable&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 0px ; margin-bottom: 0px ; vertical-align: middle&quot;&gt;at least once delivery ( if didn&#39;t deliver in 24 hours then&amp;nbsp; move to dead letter events&lt;/li&gt;&lt;li style=&quot;margin-top: 0px ; margin-bottom: 0px ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;Built-in&amp;nbsp;Events:&amp;nbsp; Get up and running quickly&amp;nbsp; with resource-defined built-in events &lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 0px ; margin-bottom: 0px ; vertical-align: middle&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;Custom&amp;nbsp;Events:&amp;nbsp; Use Event Grid route , filter and&amp;nbsp;reliably deliver&amp;nbsp; custom events in&amp;nbsp;your app&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=31;" parent="gwU3oHrJpf1aLOah3w9X-1" vertex="1">
+          <mxGeometry x="105" y="-925" width="1880" height="1840" as="geometry" />
         </mxCell>
-        <mxCell id="uhV1cdCUK8idvOW1U4LO-0" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#000000;strokeWidth=1;fontSize=18;fontColor=none;" vertex="1" parent="gwU3oHrJpf1aLOah3w9X-1">
+        <mxCell id="uhV1cdCUK8idvOW1U4LO-0" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#000000;strokeWidth=1;fontSize=18;fontColor=none;" parent="gwU3oHrJpf1aLOah3w9X-1" vertex="1">
           <mxGeometry x="140" y="-430" width="1190" height="305" as="geometry" />
         </mxCell>
-        <mxCell id="uhV1cdCUK8idvOW1U4LO-1" value="&lt;font style=&quot;font-size: 25px&quot;&gt;Event Source&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;fillStyle=solid;strokeColor=#666666;" vertex="1" parent="gwU3oHrJpf1aLOah3w9X-1">
+        <mxCell id="uhV1cdCUK8idvOW1U4LO-1" value="&lt;font style=&quot;font-size: 25px&quot;&gt;Event Source&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;fillStyle=solid;strokeColor=#666666;" parent="gwU3oHrJpf1aLOah3w9X-1" vertex="1">
           <mxGeometry x="150" y="-367.5" width="280" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="uhV1cdCUK8idvOW1U4LO-2" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fillColor=#ffffff;fontColor=none;fillStyle=solid;" vertex="1" parent="gwU3oHrJpf1aLOah3w9X-1">
+        <mxCell id="uhV1cdCUK8idvOW1U4LO-2" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fillColor=#ffffff;fontColor=none;fillStyle=solid;" parent="gwU3oHrJpf1aLOah3w9X-1" vertex="1">
           <mxGeometry x="525" y="-392.5" width="390" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="uhV1cdCUK8idvOW1U4LO-3" value="Event Handler&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fillColor=#d5e8d4;fillStyle=solid;strokeColor=#82b366;fontSize=17;" vertex="1" parent="gwU3oHrJpf1aLOah3w9X-1">
+        <mxCell id="uhV1cdCUK8idvOW1U4LO-3" value="Event Handler&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fillColor=#d5e8d4;fillStyle=solid;strokeColor=#82b366;fontSize=17;" parent="gwU3oHrJpf1aLOah3w9X-1" vertex="1">
           <mxGeometry x="990" y="-387.5" width="220" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="uhV1cdCUK8idvOW1U4LO-4" value="Event" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#6c8ebf;strokeWidth=1;fontSize=18;fillColor=#dae8fc;" vertex="1" parent="gwU3oHrJpf1aLOah3w9X-1">
+        <mxCell id="uhV1cdCUK8idvOW1U4LO-4" value="Event" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#6c8ebf;strokeWidth=1;fontSize=18;fillColor=#dae8fc;" parent="gwU3oHrJpf1aLOah3w9X-1" vertex="1">
           <mxGeometry x="220" y="-307.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uhV1cdCUK8idvOW1U4LO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gwU3oHrJpf1aLOah3w9X-1" source="uhV1cdCUK8idvOW1U4LO-7" target="uhV1cdCUK8idvOW1U4LO-11">
+        <mxCell id="uhV1cdCUK8idvOW1U4LO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="gwU3oHrJpf1aLOah3w9X-1" source="uhV1cdCUK8idvOW1U4LO-7" target="uhV1cdCUK8idvOW1U4LO-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uhV1cdCUK8idvOW1U4LO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=none;" edge="1" parent="gwU3oHrJpf1aLOah3w9X-1" source="uhV1cdCUK8idvOW1U4LO-7" target="uhV1cdCUK8idvOW1U4LO-9">
+        <mxCell id="uhV1cdCUK8idvOW1U4LO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=none;" parent="gwU3oHrJpf1aLOah3w9X-1" source="uhV1cdCUK8idvOW1U4LO-7" target="uhV1cdCUK8idvOW1U4LO-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="740" y="-292.5" />
@@ -423,16 +120,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uhV1cdCUK8idvOW1U4LO-7" value="Topic" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontSize=16;" vertex="1" parent="gwU3oHrJpf1aLOah3w9X-1">
+        <mxCell id="uhV1cdCUK8idvOW1U4LO-7" value="Topic" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontSize=16;" parent="gwU3oHrJpf1aLOah3w9X-1" vertex="1">
           <mxGeometry x="550" y="-307.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uhV1cdCUK8idvOW1U4LO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=none;" edge="1" parent="gwU3oHrJpf1aLOah3w9X-1" source="uhV1cdCUK8idvOW1U4LO-9" target="uhV1cdCUK8idvOW1U4LO-3">
+        <mxCell id="uhV1cdCUK8idvOW1U4LO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=none;" parent="gwU3oHrJpf1aLOah3w9X-1" source="uhV1cdCUK8idvOW1U4LO-9" target="uhV1cdCUK8idvOW1U4LO-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uhV1cdCUK8idvOW1U4LO-9" value="Subscriber" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;fontSize=16;" vertex="1" parent="gwU3oHrJpf1aLOah3w9X-1">
+        <mxCell id="uhV1cdCUK8idvOW1U4LO-9" value="Subscriber" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;fontSize=16;" parent="gwU3oHrJpf1aLOah3w9X-1" vertex="1">
           <mxGeometry x="770" y="-367.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uhV1cdCUK8idvOW1U4LO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=18;fontColor=none;" edge="1" parent="gwU3oHrJpf1aLOah3w9X-1" source="uhV1cdCUK8idvOW1U4LO-11" target="uhV1cdCUK8idvOW1U4LO-13">
+        <mxCell id="uhV1cdCUK8idvOW1U4LO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=18;fontColor=none;" parent="gwU3oHrJpf1aLOah3w9X-1" source="uhV1cdCUK8idvOW1U4LO-11" target="uhV1cdCUK8idvOW1U4LO-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="945" y="-242.5" />
@@ -440,13 +137,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uhV1cdCUK8idvOW1U4LO-11" value="Subscriber" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#b85450;strokeWidth=1;fillColor=#f8cecc;fontSize=16;" vertex="1" parent="gwU3oHrJpf1aLOah3w9X-1">
+        <mxCell id="uhV1cdCUK8idvOW1U4LO-11" value="Subscriber" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#b85450;strokeWidth=1;fillColor=#f8cecc;fontSize=16;" parent="gwU3oHrJpf1aLOah3w9X-1" vertex="1">
           <mxGeometry x="770" y="-272.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uhV1cdCUK8idvOW1U4LO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="gwU3oHrJpf1aLOah3w9X-1" source="uhV1cdCUK8idvOW1U4LO-4" target="uhV1cdCUK8idvOW1U4LO-7">
+        <mxCell id="uhV1cdCUK8idvOW1U4LO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="gwU3oHrJpf1aLOah3w9X-1" source="uhV1cdCUK8idvOW1U4LO-4" target="uhV1cdCUK8idvOW1U4LO-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uhV1cdCUK8idvOW1U4LO-13" value="Event Handler&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fillColor=#d5e8d4;fillStyle=solid;strokeColor=#82b366;fontSize=17;" vertex="1" parent="gwU3oHrJpf1aLOah3w9X-1">
+        <mxCell id="uhV1cdCUK8idvOW1U4LO-13" value="Event Handler&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fillColor=#d5e8d4;fillStyle=solid;strokeColor=#82b366;fontSize=17;" parent="gwU3oHrJpf1aLOah3w9X-1" vertex="1">
           <mxGeometry x="1000" y="-262.5" width="220" height="65" as="geometry" />
         </mxCell>
       </root>
