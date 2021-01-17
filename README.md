@@ -19,10 +19,10 @@ There are two types fo data in message services
 
 2. Message
 
-  - Contains raw data  produced by  a  service.
-  - Publisher of the message has an expectation how consumer
-  - can handle message
-  - Contract exists between two sides
+   - Contains raw data  produced by  a  service.
+   - Publisher of the message has an expectation how consumer
+   - can handle message
+   - Contract exists between two sides
 
 There are three types of messaging services in Azure.
 
@@ -31,11 +31,11 @@ There are three types of messaging services in Azure.
   3. ServiceBus
 
 
-  Service	|        Event Type              |	           When to use
-------------|--------------------------------|-------------------------------------------
-Event Grid  | Event distribution (discrete)  |   React to status changes
-Event Hubs  | Event streaming (series)	     | Telemetry and distributed data streaming
-Service Bus | Message	                     | Order processing and financial transactions
+        Service	|        Event Type              |	           When to use
+      ------------|--------------------------------|-------------------------------------------
+      Event Grid  | Event distribution (discrete)  |   React to status changes
+      Event Hubs  | Event streaming (series)	     | Telemetry and distributed data streaming
+      Service Bus | Message	                     | Order processing and financial transactions
 
 
 
