@@ -43,4 +43,4 @@
 
 10.  Same EventGrid to all Subscriber event handler
    
-    ![11.ViewingSameEventDataInMultipleEventHanderAfterPublishingEvents](https://github.com/KollaRajesh/aztd-AzureMessagingServices/blob/master/EventGrid/3.SubscribeCustomEvents/PicsForNotes/11.ViewingSameEventDataInMultipleEventHanderAfterPublishingEvents.png)
+   ![11.ViewingSameEventDataInMultipleEventHanderAfterPublishingEvents](https://github.com/KollaRajesh/aztd-AzureMessagingServices/blob/master/EventGrid/3.SubscribeCustomEvents/PicsForNotes/11.ViewingSameEventDataInMultipleEventHanderAfterPublishingEvents.png)
