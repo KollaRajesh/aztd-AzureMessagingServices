@@ -3,16 +3,16 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "workflows_aztds_LoanEvents_name": {
-            "value": null
+            "value": "aztds_LoanEventsPublisher"
         },
         "topics_aztds_LoanEvents_name": {
-            "value": null
+            "value": "aztds_LoanEventsTopic"
         },
         "connections_azureeventgridpublish_name": {
-            "value": null
+            "value": "azureeventgridpublisher"
         },
         "workflows_aztds_LoaneventsHandler_name": {
-            "value": null
+            "value": "aztds_LoaneventsHandler"
         }
     }
 }
